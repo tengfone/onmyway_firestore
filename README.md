@@ -1,0 +1,1 @@
+# OnMyWay Firestore CLI Deployment
